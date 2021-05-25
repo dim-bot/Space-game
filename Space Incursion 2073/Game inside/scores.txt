@@ -1,0 +1,8 @@
+jani 4440
+marko 1000
+milla 900
+Calculating 430
+pekka 30
+dimm 20
+dima 20
+junne 9

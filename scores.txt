@@ -1,0 +1,7 @@
+marko 1000
+jani 4440
+pekka 30
+dimm 20
+dima 20
+junne 9
+milla 900
